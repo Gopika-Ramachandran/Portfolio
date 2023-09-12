@@ -1,0 +1,30 @@
+body{
+   background-color:white;
+   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQub2IDZD_k9h85kNXWGwlWuTrFRTmqZtTC0Q&usqp=CAU")}
+a{
+  text-decoration:none;}
+li{
+   padding:25px;
+   background-color:black;
+   margin:10px;
+   border:5px solid grey;}
+ul{
+    padding:45px;
+    background-color:darkgrey;}
+h1{
+   color:white;}
+h2{
+color:black;}
+p{
+  font-size:30;
+  color:white;}
+marquee{
+  background-color:white;
+  behavior:alternate;
+  slide;
+  }
+#position{
+  color:white;}
+p a{
+  color: white;
+}
